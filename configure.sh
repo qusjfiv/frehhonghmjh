@@ -16,7 +16,7 @@ cat << EOF > /etc/v2ray/config.json
         "streamSettings": {
             "network": "ws",
             "wsSettings": {
-                "path": "/lock"
+                "path": "/laowang"
             }
         }
     }],
